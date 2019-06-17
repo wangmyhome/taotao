@@ -1,0 +1,11 @@
+127.0.0.1 - - [19/May/2019:08:10:55 +0800] "GET /search.html?q=%E4%B8%89%E6%98%9F HTTP/1.0" 200 41763 http-bio-8085-exec-1 449
+127.0.0.1 - - [19/May/2019:08:10:55 +0800] "GET /favicon.ico HTTP/1.0" 404 973 http-bio-8085-exec-2 3
+127.0.0.1 - - [19/May/2019:08:12:54 +0800] "GET /search.html?q=%E4%B8%89%E6%98%9F&page=2 HTTP/1.0" 200 42109 http-bio-8085-exec-3 105
+127.0.0.1 - - [19/May/2019:08:12:56 +0800] "GET /search.html?q=%E4%B8%89%E6%98%9F&page=3 HTTP/1.0" 200 42186 http-bio-8085-exec-4 57
+127.0.0.1 - - [19/May/2019:08:12:58 +0800] "GET /search.html?q=%E4%B8%89%E6%98%9F&page=4 HTTP/1.0" 200 42323 http-bio-8085-exec-5 58
+127.0.0.1 - - [19/May/2019:08:12:59 +0800] "GET /search.html?q=%E4%B8%89%E6%98%9F&page=5 HTTP/1.0" 200 42486 http-bio-8085-exec-6 54
+127.0.0.1 - - [19/May/2019:08:13:00 +0800] "GET /search.html?q=%E4%B8%89%E6%98%9F&page=6 HTTP/1.0" 200 34573 http-bio-8085-exec-7 41
+127.0.0.1 - - [19/May/2019:08:13:11 +0800] "GET /search.html?q=%E5%B0%8F%E7%B1%B3 HTTP/1.0" 200 25882 http-bio-8085-exec-8 25
+127.0.0.1 - - [19/May/2019:08:13:17 +0800] "GET /search.html?q=tcl HTTP/1.0" 200 42311 http-bio-8085-exec-9 49
+127.0.0.1 - - [19/May/2019:08:13:25 +0800] "GET /search.html?q=tcl&page=2 HTTP/1.0" 200 43088 http-bio-8085-exec-10 81
+127.0.0.1 - - [19/May/2019:08:13:26 +0800] "GET /search.html?q=tcl&page=3 HTTP/1.0" 200 29352 http-bio-8085-exec-1 23
